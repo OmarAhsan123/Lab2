@@ -1,0 +1,10 @@
+div { 
+display:none;
+width:500px;
+height:300px; }
+
+div:target {
+	display:block;
+	border: 10px solid #000;
+	
+}
